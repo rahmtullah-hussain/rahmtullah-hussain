@@ -50,6 +50,8 @@
 |---|---|
 | ✅ Data Analytics with AI | GeeksForGeeks |
 | ✅ DSA with C++ | CodeHelp |
+| ✅  Generative AI Essentials for Data Analytics | IBM |
+
 
 ---
 
